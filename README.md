@@ -1,7 +1,7 @@
 # DIN24S_Group1
 A repository to share the group work during studies.
 
-Suggested file structure
+Suggested file structure:
 
 DIN24S_Group1/
 │
