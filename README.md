@@ -2,7 +2,7 @@
 A repository to share the group work during studies.
 
 Suggested file structure:
-
+```plain text
 DIN24S_Group1/
 │
 ├── IntroductionToProgramming/     # Folder for the first course
@@ -26,6 +26,6 @@ DIN24S_Group1/
     │   ├── Student2/
     │   └── Student3/
     └── ...                        # Additional workshops
-
+```
 In this way everone can check the solutions of other members of the group as well as get experience using Git.
 If we need to collaborate on a workshop we can skip creating personal folders and work on the same file.
