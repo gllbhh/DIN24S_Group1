@@ -1,4 +1,4 @@
-/*Distance converter 0.2 by Gleb Bulygin
+/*Distance converter 0.3 by Gleb Bulygin
 for Introduction to programming course
 Functionality:
 Programm askes user to input a distance in meters 

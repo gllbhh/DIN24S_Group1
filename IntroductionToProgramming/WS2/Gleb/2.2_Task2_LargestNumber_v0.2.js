@@ -1,4 +1,4 @@
-/*Largest Number by Gleb Bulygin
+/*Largest Number v0.2 by Gleb Bulygin
 for Introduction to Programming Course
 Functionality:
     1. Ask user to type in numbers separated by space
