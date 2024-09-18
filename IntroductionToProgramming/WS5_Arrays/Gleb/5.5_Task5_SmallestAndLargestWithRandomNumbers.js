@@ -34,8 +34,8 @@ process.stdout.write("Random numbers: " + numbers.join(", ") + "\n");
 // Then we can run two checks for each number in the array
 // if the numbeInArray > maxNumber we set maxNumber to this numberInArray
 // if the numbeInArray < minNumber we set minNumber to this numberInArray
-let minNumber = 1001,
-	maxNumber = 0;
+let minNumber = numbers[0],
+	maxNumber = numbers[0];
 
 // find max number in a loop
 numbers.forEach((number) => {
